@@ -1,0 +1,1 @@
+# full-pc-check.ps1
